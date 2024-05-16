@@ -38,8 +38,9 @@
       <br/>
       <h2>⌨️ Gestiones de proyectos</h2>
       <article>
-        <img src = "https://skillicons.dev/icons?i=discord,notion" width = 80px> <br/>
+         <img src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width = 110px />
          <img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+         <img src = "https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
       </article>
        <br/>
       <h2>👉🏻 Gestores de paquetes</h2>
