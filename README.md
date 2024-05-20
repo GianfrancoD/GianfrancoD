@@ -55,7 +55,7 @@
 
 </body>
 
- ![Estadistica](https://github-readme-stats.vercel.app/api?username=GianfrancoD&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blue-green) &ensp;&ensp;&ensp;
- ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=GianfrancoD&theme=blue-green)
+ ![Estadistica](https://github-readme-stats.vercel.app/api?username=GianfrancoD&include_all_commits=true&count_private=true&theme=blue-green) &ensp;&ensp;&ensp;
+ ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=GianfrancoD&include_all_commits=true&count_private=true&theme=blue-green)
 
 
