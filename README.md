@@ -6,8 +6,20 @@
    <header> 
     <nav>
       <h1 align="center">
-         Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+        Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Welcome to my Repository 
       </h1>
+       <h2>¿Do you want know me? 😲</h2>
+       <h5>
+          I´m a person enchanted by programming, I´m always studying new things related to technology to excel in my field and to be able to benefit the company from the knowledge that I am acquiring and have, I´m currently studying Fullstack Developers Bootcamps, i´m not have problem of using frontend as backend, also study in other media where I They have trained very well, I´m now doing personal projects among other things where I use: <br/><br/>
+
+👉🏻 React, Vite, MaterialUI, Python, Flask, SQL, Postgresql, AWS Cloud, Vercel and Docker.
+
+🗣️ at the moment i´m speak Native the Spanish, i improving my english but not´s good, and undertooding the italian speak too speaked.
+
+If you want, contact me to find out more:
+
+📩...
+       </h5>
     </nav>
   </header>
 
@@ -52,7 +64,6 @@
        <br/>
     </section>
   </main>
-
 </body>
 
  ![Estadistica](https://github-readme-stats.vercel.app/api?username=GianfrancoD&include_all_commits=true&count_private=true&theme=blue-green) &ensp;&ensp;&ensp;
