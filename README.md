@@ -1,6 +1,6 @@
 ![image](https://github.com/GianfrancoD/GianfrancoD/blob/main/GianFranco%20Di%20Berardino.png)
 ![Website up/down](https://img.shields.io/website-up-down-green-red/http/web)
-![mantenimiento](https://img.shields.io/badge/Maintenance%3F-Yes-red.svg)
+![mantenido](https://img.shields.io/badge/Maintained%3F-Yes-red.svg)
 
 <body>
    <header> 
@@ -22,15 +22,12 @@ If you want, contact me to find out more:
        </h5>
     </nav>
   </header>
-
   <h1>
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px />
       All Skill
      <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px />
   </h1>
-  
   <img src = "https://skillicons.dev/icons?i=github,git,githubactions" width = 120px>
-  
   <main>
     <section>
       <h2>👨‍💻 FrontEnd</h2>
@@ -68,5 +65,3 @@ If you want, contact me to find out more:
 
  ![Estadistica](https://github-readme-stats.vercel.app/api?username=GianfrancoD&include_all_commits=true&count_private=true&theme=blue-green) &ensp;&ensp;&ensp;
  ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=GianfrancoD&include_all_commits=true&count_private=true&theme=blue-green)
-
-
