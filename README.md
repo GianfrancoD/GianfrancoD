@@ -10,9 +10,9 @@
       </h1>
        <h2>¿Do you want know me? 😲</h2>
        <h5>
-          I´m a person enchanted by programming, I´m always studying new things related to technology to excel in my field and to be able to benefit the company from the knowledge that I am acquiring and have, I´m currently studying Fullstack Developers Bootcamps, i´m not have problem of using frontend as backend, also study in other media where I They have trained very well, I´m now doing personal projects among other things where I use: <br/><br/>
+         I'm a software developer with a genuine passion for building things that work. I'm constantly expanding my knowledge across the tech stack — frontend, backend, cloud and everything in between — with a clear focus on writing clean, scalable and maintainable code. I completed a Fullstack Developer Bootcamp and have continued learning through hands-on project work and self-directed study, which is where I've grown the most. I'm equally comfortable working on the frontend as on the backend, and I thrive in environments where I can take ownership of a problem and see it through to production. Right now I'm actively building and iterating on real projects, using: <br/><br/>
 
-👉🏻 React, Vite, MaterialUI, Python, Flask, SQL, Postgresql, AWS Cloud, Vercel and Docker.
+👉🏻 React, Nextjs, Typescript, Vite, TailwindCSS, MaterialUI, Python, Flask, Django, FastApi, SQL, Postgresql, AWS Cloud, Vercel, Docker, Go, Gin, CI/CD and more..
 
 If you want, contact me to find out more:
 
