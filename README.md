@@ -14,8 +14,6 @@
 
 👉🏻 React, Vite, MaterialUI, Python, Flask, SQL, Postgresql, AWS Cloud, Vercel and Docker.
 
-🗣️ at the moment i´m speak Native the Spanish, i improving my english but not´s good, and undertooding the italian speak too speaked.
-
 If you want, contact me to find out more:
 
 📩...
