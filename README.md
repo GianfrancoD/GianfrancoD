@@ -14,7 +14,7 @@
   <a href="mailto:...">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Spain-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Venezuela-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open_to_opportunities-22C55E?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=GianfrancoD&style=for-the-badge&color=blueviolet" />
 </p>
