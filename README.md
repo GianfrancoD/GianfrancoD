@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Gianfranco Di Berardino
 
-### 🚀 Software Architect · Hands-on · Building SaaS Products with AI-Augmented Workflows
+### 🚀 FullStack Developer · Building SaaS Products with AI-Augmented Workflows
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+production-grade+SaaS+products;Frontend+%E2%80%A2+Backend+%E2%80%A2+Cloud+%E2%80%A2+Everything+in+between;React+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Python+%E2%80%A2+Go;Hexagonal+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Clean+Code;AI-Powered+Engineering+%E2%80%A2+Claude+Code+%2B+Spec-Driven+Development;Multi-tenant+%E2%80%A2+Multi-currency+%E2%80%A2+International+Scale;From+first+commit+to+production;Always+learning.+Always+building." alt="Typing SVG" />
@@ -34,7 +34,7 @@ Engineering, Security & Cloud: I drive performance and reliability through deep 
 AI-Assisted Execution: By integrating Spec-Driven Development (SDD) and AI tools like Claude Code as well as other LLMs into my workflow, I accelerate the shipping cycle, moving faster while keeping quality and code maintainability high.
 
 ```yaml
-location: Spain 🇪🇸
+location: Venezuela 🇪🇸
 focus: Multi-tenant SaaS · AI-augmented engineering
 stack: React · Typescript · Astro · Next.js · Node.js · Python · Fastapi · Flask · Django · Go · Gin · PostgreSQL
 mindset: Builder · Ownership · Ship fast · Architect right
