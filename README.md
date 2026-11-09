@@ -34,7 +34,7 @@ Engineering, Security & Cloud: I drive performance and reliability through deep 
 AI-Assisted Execution: By integrating Spec-Driven Development (SDD) and AI tools like Claude Code as well as other LLMs into my workflow, I accelerate the shipping cycle, moving faster while keeping quality and code maintainability high.
 
 ```yaml
-location: Venezuela 🇪🇸
+location: Venezuela 🇻🇪
 focus: Multi-tenant SaaS · AI-augmented engineering
 stack: React · Typescript · Astro · Next.js · Node.js · Python · Fastapi · Flask · Django · Go · Gin · PostgreSQL
 mindset: Builder · Ownership · Ship fast · Architect right
